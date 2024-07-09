@@ -4,6 +4,7 @@
 
 - [x] make it deploy (vercel)
 - [x] Scaffold basic ui with mock data
+- [ ] Tidy up build process
 - [ ] Actually set a database (vercel postgress)
 - [ ] Attach database to UI
 - [ ] Add Authentification (w/ clerk)
